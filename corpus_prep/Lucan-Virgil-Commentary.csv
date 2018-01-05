@@ -1,0 +1,415 @@
+﻿TARGET,TARGET_START,TARGET_STOP,TARGET_TEXT,SOURCE,SOURCE_START,SOURCE_STOP,SOURCE_TEXT,TYPE,AUTH,ADDED_BY,NOTE
+lucan.bellum_civile,1_68,1_68,68 immensum aperitur opus,vergil.aeneid,3_275,3_275,3.275 aperitur Apollo,2,H,,
+lucan.bellum_civile,1_307,1_307,307 iussus Caesar agi,vergil.aeneid,7_481,7_481,7.481 ut ceruuom ardentes agerent,3,H,,Caesar is to be pursued = Allecto drives Iulus' dogs to pursue Silvia's stag
+lucan.bellum_civile,1_347,1_347,347 tollite iampridem uictricia tollite signa,vergil.aeneid,2_103,2_103,2.103 iamdudum sumite poenas,3,H,,Caesar urges the standards to be raised = Sinon urges the Trojans to take vengence
+lucan.bellum_civile,1_393,1_393,393 fataque ferre uidet,vergil.aeneid,2_34,2_34,2.34 fata ferebant,3,H,,reversal; Caesar sees favorable fates in the spirit of his troops = Aeneas states (unfortunate) fate of Troy unfolds with Trojan horse entering
+lucan.bellum_civile,1_465,1_465,465 apertum gentibus orbem,vergil.aeneid,10_13,10_13,10.13 Alpes immittet apertas,4,H,,Caesar moving his troops to Rome opens up Italy to attack = Carthage's attack on Rome opens her up to attack at the Alps
+lucan.bellum_civile,1_683,1_683,683 quo diuersa feror,vergil.aeneid,5_166,5_166,5.166 quo diuersa abis,3,H,,Matrona asks where war will go next = Gyas asks Menoetes why the ship is going astray (boat race)
+lucan.bellum_civile,1_111,1_111,1.111 non cepit fortuna duos,vergil.aeneid,9_644,9_644,9.644 nec . . . capit,3,H;R,,Caesar and Pompey can't share power = Troy will not contain Ascanius
+lucan.bellum_civile,1_137,1_137,137 quercus exuuias sacrataque gestans / dona ducum,vergil.aeneid,11_5,11_5,11.5-8 ingentem quercum . . . Mezenti ducis exuuias,5,H;R,,Pompey as oak with spoils = oak with spoils of Mezentius
+lucan.bellum_civile,1_355,1_355,1.355 diro ferri reuocantur amore ,vergil.aeneid,7_461,7_461,7.461 saevit amor ferri et scelerata insania bello,5,H;R,,fury of Caesar's troops = fury of Turnus possessed by Allecto
+lucan.bellum_civile,1_674,1_674,674 sed maiora premunt,vergil.aeneid,10_375,10_375,10.375 numina nulla premunt,3,H;R,,omens scare populace = Pallas telling his men no gods are pressing them
+lucan.bellum_civile,1_25,1_25,25-6 lapsis . . . muris,vergil.aeneid,8_355,8_355,8.355 disiectis . . . muris,4,H;TB,,Italian walls destroyed by civil war = ruins of divine towns on the Capitoline pointed out by Evander on visit to Pallentum
+lucan.bellum_civile,1_3,1_3,3 uiscera,vergil.aeneid,6_833,6_833,6.833 uiscera,5,H;TB;V;R,,Dead Anchises foretells the civil war between Caesar and Pompey
+lucan.bellum_civile,1_33,1_33,33-4 fata Neroni / inuenere uiam,vergil.aeneid,10_113,10_113,10.113 fata uiam inuenient,5,H;TB;V;R,,Fates finding way for Nero = Jupiter saying that he will let the battle go and the Fates will find a way
+lucan.bellum_civile,1_588,1_588,588 errantis in aere pinnae,vergil.aeneid,3_361,3_361,3.361 praepetis omina pennae,4,H;V,,abilities of seer Arruns = abilities of seer Helenus
+lucan.bellum_civile,1_2,1_2,1.2 iusque datum sceleri,vergil.aeneid,6_852,6_852,6.852 pacique imponere morem,4,R,,"reality of Rome = Anchises' description of Rome; acc. Roche a ""sardonic inversion"""
+lucan.bellum_civile,1_6,1_6,1.6-7 signis / signa . . . pila minantia pilis,vergil.aeneid,4_628,4_628,4.628-9 litora litoribus . . . / . . . arma armis,5,R,,Roman civil war = Dido's prayers for Carthage vs. Rome war
+lucan.bellum_civile,1_8,1_8,1.8 quis furor,vergil.aeneid,12_313,12_313,12.313 quo ruitis? quaeve ista repens discordia surgit,5,R,,narrator asks what madness causes Romans to fight = Aeneas asking troops why fight when there is a truce
+lucan.bellum_civile,1_13,1_13,1.13 heu quantum terrae potuit,vergil.aeneid,6_828,6_828,6.828 heu quantum inter se bellum,5,R,,Anchises mentions civil war between Caesar and Pompey
+lucan.bellum_civile,1_21,1_21,1.21 si tantus amor belli tibi Roma nefandi,vergil.aeneid,11_323,11_323,11.323 si tantus amor,3,R,,destruction of Rome via civil war= Latinus saying he will allow the Trojans to settle if they thus desire it
+lucan.bellum_civile,1_21,1_21,1.21 si tantus amor belli tibi Roma nefandi,vergil.aeneid,12_572,12_572,12.572 belli . . . nefandi,5,R,,destruction of Rome via civil war= Aen. before burning Pallanteum saying it was the seat of the foul war
+lucan.bellum_civile,1_25,1_25,1.25-6 ingentia . . . / saxa,vergil.aeneid,6_616,6_616,6.616 saxum ingens,3,R,,ingentia saxa of Rome's walls = punishment of rolling a huge stone uphill in the underworld
+lucan.bellum_civile,1_25,1_25,1.25-6 ingentia . . . / saxa,vergil.aeneid,10_127,10_127,10.127 ingens . . . saxum,3,R,,"acc. to Harrison ""archetypal epic epithet"""
+lucan.bellum_civile,1_25,1_25,1.25-6 ingentia . . . / saxa,vergil.aeneid,12_531,12_531,12.531 ingentis . . . saxi,3,R,,ingentia saxa of Rome's walls = Aeneas kills Murranus with a large stone
+lucan.bellum_civile,1_25,1_25,1.25-6 ingentia . . . / saxa,vergil.aeneid,12_896,12_896,12.896-7 saxum . . . ingens,3,R,,"Aeneas throws an ingens saxum, which is a boundry marker, at Turnus = the ingentia saxa of Rome's walls fall"
+lucan.bellum_civile,1_28,1_28,1.28 horrida . . . dumis,vergil.aeneid,9_381,9_381,9.381-2 dumis . . . / horrida,5,R,,"Rome abandoned after losses of civil war = woods where Euryalus dies that will become a known region of Italy, loci Albani"
+lucan.bellum_civile,1_45,1_45,1.45 cum statione peracta,vergil.aeneid,9_222,9_222,9.222 statione relicta,3,R,,Nero leaving the Earth and being catastorized= Euryalus leaving his post with Nisus to talk to Aeneas
+lucan.bellum_civile,1_47,1_47,1.47 sceptra tenere,vergil.aeneid,1_57,1_57,1.57 sceptra tenens,3,R,,Nero = Aeolus
+lucan.bellum_civile,1_56,1_56,1.56 aetheris immensi,vergil.aeneid,10_356,10_356,10.356 magno . . . aethere,3,R,,space Nero is in is a magnification of the normal epic magnum aether
+lucan.bellum_civile,1_56,1_56,1.56 aetheris immensi,vergil.aeneid,10_459,10_459,10.459 magnumque ita ad aethera,3,R,,space Nero is in is a magnification of the normal epic magnum aether
+lucan.bellum_civile,1_62,1_62,1.62 ferrea belligeri,vergil.aeneid,7_622,7_622,7.623 belli ferratos,5,R,,
+lucan.bellum_civile,1_63,1_63,1.63-4 pectore . . . / accipio,vergil.aeneid,4_530,4_530,4.530-1 pectore . . . / accipit,4,R,,poet accepting inspriation = Dido not able to take sleep (in her heart)
+lucan.bellum_civile,1_63,1_63,1.63-4 pectore . . . / accipio,vergil.aeneid,9_276,9_276,9.276-7 pectore . . . / accipio,4,R,,poet accepting inspriation = Ascanius taking on Euryalus as his own
+lucan.bellum_civile,1_80,1_80,1.80 turbabit foedera,vergil.aeneid,12_633,12_633,12.633 foedera turbasti,5,R,,"destruction of the world = Turnus recognizes havoc Juturna has caused ""civil war context that underscores the dissolution of an established order"""
+lucan.bellum_civile,1_83,1_83,1.83 terrae pelagique potentem,vergil.aeneid,3_528,3_528,3.528 di maris et terrae tempestatumque potentes,3,R,,area Rome rules = area gods rule in Anchises' prayer
+lucan.bellum_civile,1_84,1_84,1.84 causa malorum,vergil.aeneid,4_169,4_169,4.169-70 malorum / causa,3,R,,Rome was the cause of evils as the day of Dido and Aeneas was the cause of evils
+lucan.bellum_civile,1_84,1_84,1.84 causa malorum,vergil.aeneid,7_481,7_481,7.481-2 laborum / causa,3,R,,Rome was the cause of evils as the hunting of Silvia's stag is the cause of works
+lucan.bellum_civile,1_84,1_84,1.84 causa malorum,vergil.aeneid,12_600,12_600,12.600 causa malorum,3,R,,Rome was the cause of evils as Amata is the cause of evils
+lucan.bellum_civile,1_87,1_87,1.87 nimiaque cupidine,vergil.aeneid,9_354,9_354,9.354 sensit enim nimia caede atque cupidine ferri,4,R,,triumvirate is blinded by excessive desire = Nisus trying to check the uncontrolled rage of Euryalus
+lucan.bellum_civile,1_100,1_100,1.100 belli . . . mora,vergil.aeneid,10_427,10_427,10.427-8 belli . . . / . . . moramque,3,R,,Crassus is delay for war = Abas (killed by Lasus) as delay
+lucan.bellum_civile,1_103,1_103,1.103-4 saeua / arma,vergil.aeneid,1_295,1_295,1.295 saeua . . . arma,5,R,,Crassus keeping arms of Caesar and Pompey apart =Rage is closed within gates of war in Jupiter's prophecy
+lucan.bellum_civile,1_103,1_103,1.103-4 saeua / arma,vergil.aeneid,8_482,8_482,8.482 saeuis . . . armis,3,R,,epic collocation: weapons of Caesar and Pompey = those of Mezentius
+lucan.bellum_civile,1_103,1_103,1.103-4 saeua / arma,vergil.aeneid,9_651,9_651,9.651 saeua . . . arma,3,R,,epic collocation: weapons of Caesar and Pompey = Apollo to Iulus
+lucan.bellum_civile,1_103,1_103,1.103-4 saeua / arma,vergil.aeneid,12_890,12_890,12.890 saeuis . . . armis,3,R,,Crassus keeping arms of Caesar and Pompey apart = Aeneas saying he and Turnus must fight
+lucan.bellum_civile,1_109,1_109,1.109 diuiditur ferro,vergil.aeneid,9_750,9_750,9.750-1 ferro . . . / diuidit,4,R,,power of tyrant's is divided by the sword = Turnus cutting off Pandarus' head
+lucan.bellum_civile,1_112,1_112,1.112 ferales omine taedas,vergil.aeneid,7_71,7_71,7.71 castis . . . Taedis,4,R,,play on ambiguity between funeral torches and marriage torches (Julia = Lavinia on fire)
+lucan.bellum_civile,1_112,1_112,1.112 ferales omine taedas,vergil.aeneid,7_322,7_322,7.322 funestaeque . . . taedae,4,R,,play on ambiguity between funeral torches and marriage torches (Julia = Paris)
+lucan.bellum_civile,1_114,1_114,1.114 quod si tibi fata dedissent,vergil.aeneid,3_337,3_337,3.337 quae fata dedere?,4,R,,standard phrasing (Andromache asks of what fate pushes Aeneas = fate taking Julia)
+lucan.bellum_civile,1_114,1_114,1.114 quod si tibi fata dedissent,vergil.aeneid,4_225,4_225,4.225 fatisque datas . . . urbes,4,R,,fate that took Julia = Aeneas in Carthage although other fate given to him
+lucan.bellum_civile,1_129,1_129,1.129 nec coiere pares,vergil.aeneid,1_475,1_475,1.475 infelix puer atque impar congressus Achilli,4,R,,epic motif of ill-matched pair (Caesar and Pompey = Trolius and Achilles)
+lucan.bellum_civile,1_134,1_134,1.134 nouas uires,vergil.aeneid,12_424,12_424,12.424 nouae . . . Uires,4,R,,Pompey doesn't supply fresh powers = Aeneas is restored and completes Aeneid
+lucan.bellum_civile,1_135,1_135,1.135 stat magni nominis umbra ,vergil.aeneid,7_412,7_412,7.412 magnum nomen ,5,R,,Pomepy's great name = great name of Ardea (Turnus' city)
+lucan.bellum_civile,1_136,1_136,1.136 quercus sublimis,vergil.aeneid,3_680,3_680,3.680 aeriae quercus,5,R,,Pompey as oak tree = Cyclopes as oak tress
+lucan.bellum_civile,1_136,1_136,1.136 quercus sublimis,vergil.aeneid,9_681,9_681,9.681-2 quercus . . . sublimi uertice,5,R,,Pompey is an old oak as Pandarus/Bitias are young oaks
+lucan.bellum_civile,1_137,1_137,137 quercus exuuias sacrataque gestans / dona ducum,vergil.aeneid,10_423,10_423,10.421-3 haec arma exuuiasque uiri tua quercus habebit,4,R,,
+lucan.bellum_civile,1_138,1_138,1.138-40 haerens // . . . frondibus,vergil.aeneid,4_445,4_445,4.445 frondes / haeret,5,R,,Pompey's weak roots = Aeneas' vigorous roots
+lucan.bellum_civile,1_138,1_138,1.138 dona ducum,vergil.aeneid,11_6,11_6,11.6 consituit . . . arma,4,R,,archaic practice of adorning trees with spoils
+lucan.bellum_civile,1_139,1_139,1.139 per aera ,vergil.aeneid,1_300,1_300,1.300 per aera,3,R,,always in this metrical sedes
+lucan.bellum_civile,1_139,1_139,1.139 per aera,vergil.aeneid,6_202,6_202,6.202 per aera,3,R,,always in this metrical sedes
+lucan.bellum_civile,1_140,1_140,1.140 frondibus ,vergil.aeneid,4_441,4_441,4.441 quercum / frondes ,5,R,,Pompey as oak = Aeneas as oak
+lucan.bellum_civile,1_141,1_141,1.141 nutet casura ,vergil.aeneid,2_629,2_629,2.629 vertice nutat ,5,R,,Pompey as oak tree nods = Troy as ash tree nods
+lucan.bellum_civile,1_147,1_147,1.147 ferre manum,vergil.aeneid,5_403,5_403,5.403 ferre manum,3,R,,"Caesar always ready for competition as was Eryx, teacher of Entellus"
+lucan.bellum_civile,1_152,1_152,1.152 aetheris inpulsi sonitu,vergil.aeneid,8_524,8_524,8.524-6 namque . . . ab aethere fulgor / cum sonitu . . .,3,R,,Juturna's simile = Caesar's simile
+lucan.bellum_civile,1_157,1_157,1.157 dat stragem,vergil.aeneid,12_454,12_454,12.454 dabit . . ./ stragemque,5,R,,Caesar's destructive capabilites = the breaking of a storm
+lucan.bellum_civile,1_178,1_178,1.178 rapti fasces pretio ,vergil.aeneid,6_622,6_622,6.622 fixit leges pretio atque refixit ,5,R,,pretio as bribery; Roman leaders taking bribes = those punished in Tartarus for taking bribes
+lucan.bellum_civile,1_183,1_183,1.183 iam . . . Ceasar cursu superauerat Alpes,vergil.aeneid,2_303,2_303,2.303 ascensu supero ,3,R,,Caesar crosses the Alps = Aeneas climbs to the top of a house and sees the destruction of the Greeks
+lucan.bellum_civile,1_183,1_183,1.183 iam . . . Ceasar cursu superauerat Alpes,vergil.aeneid,6_676,6_676,6.676 hoc superate ,3,R,,Aeneas surmounts a mountain to get to Elysium = Caesar crosses the Alps
+lucan.bellum_civile,1_183,1_183,1.183 iam . . . Ceasar cursu superauerat Alpes,vergil.aeneid,11_514,11_514,11.514 superans adventat,3,R,,Caesar crosses the Alps = Turnus tells Camilla there are reports of Aeneas crossing a mountain on his way to attack
+lucan.bellum_civile,1_184,1_184,1.184 motus . . . /ceperat,vergil.aeneid,4_297,4_297,4.297 excepit,3,R,,foresight of Caesar = foresight of Dido
+lucan.bellum_civile,1_185,1_185,1.185 uentum est,vergil.aeneid,6_45,6_45,6.45 uentum erat ,2,R,,
+lucan.bellum_civile,1_185,1_185,1.185 uentum est,vergil.aeneid,10_710,10_710,10.710 uentum est,2,R,,
+lucan.bellum_civile,1_185,1_185,1.185 uentum est,vergil.aeneid,12_739,12_739,12.739 ventumst,2,R,,
+lucan.bellum_civile,1_186,1_186,1.186 ingens visa duci patriae trepidantis imago,vergil.aeneid,2_772,2_772,2.772-3 infelix simulacrum atque ipsius umbra Creusae / visa mihi ante oculos et nota maior imago,3,R,,
+lucan.bellum_civile,1_186,1_186,1.186 imago ,vergil.aeneid,5_636,5_636,5.636 nam mihi Cassandrae per somnum vatis imago,3,R,,vision of Rome = vision of Cassandra
+lucan.bellum_civile,1_186,1_186,1.186 visa . . . patriae . . . imago,vergil.aeneid,5_722,5_722,5.722 visa . . . facies . . . Parentis,4,R,,imago of Rome = imago of Anchises
+lucan.bellum_civile,1_188,1_188,1.188 effundens crines / caerie lacera nudisque lacertis,vergil.aeneid,2_277,2_277,2.277 squalentem barbam et concretos sanguine crintis/ uulneraque illa gerens,5,R,,image of Rome = adaptation of Hector's dishevelled state
+lucan.bellum_civile,1_190,1_190,1.190 gemitu permixta loqui,vergil.aeneid,2_288,2_288,2.288 sed grauiter gemitus imo de pectore ducens ,5,R,,Rome's speech recalls Hector's moan
+lucan.bellum_civile,1_190,1_190,1.190 quo tenditis ,vergil.aeneid,9_781,9_781,9.781 quo tenditis ,5,R,,Rome's speech is an inversion of Mnestheus'
+lucan.bellum_civile,1_192,1_192,1.192 perculit horror / membra ducis ,vergil.aeneid,3_30,3_30,3.30 horror / membra ,3,R,,standard response to supernatural visitation
+lucan.bellum_civile,1_193,1_193,1.193 riguere comae,vergil.aeneid,4_280,4_280,4.280 horrore comae,3,R,,standard response to supernatural visitation
+lucan.bellum_civile,1_193,1_193,1.193 gressum que coercens ,vergil.aeneid,6_389,6_389,6.389 comprime gressum,3,R,,Caesar is stopped by the vision of Rome as Charon stops Aeneas at the river Styx
+lucan.bellum_civile,1_193,1_193,1.193 riguere comae,vergil.aeneid,12_868,12_868,12.868 horrore comae,3,R,,standard response to supernatural visitation
+lucan.bellum_civile,1_194,1_194,1.194 tenuit uestigia ,vergil.aeneid,5_332,5_332,5.332 vestigia tenuit,3,R,,Caesar halts as Euryalus halts Salius so Nisus can win the foot race
+lucan.bellum_civile,1_196,1_196,1.196 Phrygiique penates ,vergil.aeneid,3_148,3_148,3.148 Phrygiique Penates,5,R,,Caesar addresses the Penates who appeared to Aeneas
+lucan.bellum_civile,1_200,1_200,1.200 Roma fave coeptis,vergil.aeneid,10_461,10_461,10.461 te precor Alcide coeptis ingentibus adsis,3,R,,Caesar asks for favor as Pallas does
+lucan.bellum_civile,1_201,1_201,1.201 en adsum,vergil.aeneid,7_452,7_452,7.452-4 en . . . / . . . / adsum,3,R,,Caesar opens his speech as Allecto does (epiphany)
+lucan.bellum_civile,1_205,1_205,leo,vergil.aeneid,9_792,9_792,leonem,5,R,,Caesar heads into war as a lion as a crowd surrounds Turnus as hunters do a lion
+lucan.bellum_civile,1_207,1_207,1.207 subsedit dubius ,vergil.aeneid,9_792,9_792,9.792 ceu saeuum turba leonem / cum telis premit infensis . . . / retro redit haud aliter retro dubius uestigia Turnus,3,R,,hesitation in the face of aggression
+lucan.bellum_civile,1_210,1_210,1.210 et uasto graue murmur hiatu / infremuit,vergil.aeneid,1_296,1_296,1.296 fremet horridus ore cruento,3,R,,lion = furor
+lucan.bellum_civile,1_215,1_215,1.215 perque imas . . . ualles ,vergil.aeneid,7_801,7_801,7.801 per imas/ . . . uallis ,3,R,,route of rivers
+lucan.bellum_civile,1_224,1_224,1.224 Hesperiae . . . aruis,vergil.aeneid,4_355,4_355,4.355 Hesperiae . . . aruis,5,R,,Aeneas tells Dido he cannot deny Ascanius his Hesperian kingdom = Caesar crosses the Rubicon and reaches the Hersperian land
+lucan.bellum_civile,1_226,1_226,1.226 procul hinc iam foedera sunto ,vergil.aeneid,4_624,4_624,4.624 foedera sunto ,5,R,,Caesar leaves peace behind = Dido's prayer for war between Rome and Carthage
+lucan.bellum_civile,1_228,1_228,1.228 sic fatus,vergil.aeneid,10_535,10_535,10.35 sic fatus,2,R,,
+lucan.bellum_civile,1_233,1_233,1.233 iamque dies . . . / exoritur ,vergil.aeneid,3_588,3_588,3.588 iamque dies . . . surgebat ,3,R,,day begins
+lucan.bellum_civile,1_233,1_233,1.233 iamque dies primos belli visura tumultus,vergil.aeneid,4_169,4_169,4.169 f. ille dies primus leti primusque malorum / causa fuit,5,R,,Arminum is first day of evil as is the coupling of Aeneas and Dido
+lucan.bellum_civile,1_235,1_235,1.235 meastam tenuerunt nubila lucem ,vergil.aeneid,7_527,7_527,7.527 lucem sub nubila ,3,R,,clouds hide light in Lucan = light on clouds on Virgil
+lucan.bellum_civile,1_237,1_237,1.237 clangorque tubarum ,vergil.aeneid,2_313,2_313,2.313 clangorque tumbarum ,5,R,,sounds of war
+lucan.bellum_civile,1_237,1_237,1.237 clangorque tubarum,vergil.aeneid,11_192,11_192,11.192 clangorque tubarum ,4,R,,sounds of war
+lucan.bellum_civile,1_245,1_245,1.245 celsus medio conspectus in agmine Caesar ,vergil.aeneid,8_587,8_587,8.587 ipse agmine Pallas / it medio chlamyde et pictis conspectus in armis,4,R,,Caesar on horseback = Pallas
+lucan.bellum_civile,1_246,1_246,1.246 gelidos pauor occupat artus ,vergil.aeneid,11_424,11_424,11.424 occupat artus ,3,R,,fear before battle; Virgilian line ending
+lucan.bellum_civile,1_247,1_247,1.247 uoluunt in pectore ,vergil.aeneid,7_254,7_254,7.254 uoluit sub pectore ,3,R,,phrase for thinking over something (troops = Latinus)
+lucan.bellum_civile,1_252,1_252,1.252 orbe sub Eoo sedem gelidaque sub Arcto,vergil.aeneid,6_16,6_16,6.16 insuetum per iter gelidas enavit ad Arctos,3,R,,cold North
+lucan.bellum_civile,1_256,1_256,1.256 hac iter est bellis ,vergil.aeneid,6_542,6_542,6.542 hac iter Elysium nobis ,4,R,,way of war vs. way to Elysium
+lucan.bellum_civile,1_256,1_256,1.256 hac iter est bellis ,vergil.aeneid,9_321,9_321,9.321 hac iter est,3,R,,opportunity for battle
+lucan.bellum_civile,1_259,1_259,1.259-61 quantum . . . / mediusque . . . / tanta quies,vergil.aeneid,4_522,4_522,4.522-7 nox erat . . . sub nocte silenti,3,R,,contrast of calm night with anxious Dido = quiet of nature which is a simile for the soldier's inner turmoil with outward quiet
+lucan.bellum_civile,1_263,1_263,1.263 addunt stimulos ,vergil.aeneid,9_717,9_717,9.717 addidit stimulos ,4,R,,Caesar goads men to battle as Mars does
+lucan.bellum_civile,1_264,1_264,1.264 rumpunt moras,vergil.aeneid,4_569,4_569,4.569 rumpe moras,3,R,,people silent as birds = silent birds
+lucan.bellum_civile,1_272,1_272,1.272 uoluentem pectore curas,vergil.aeneid,1_227,1_227,1.227 iactantem pectore curas ,3,R,,phrase for thinking over something (Caesar = Jupiter)
+lucan.bellum_civile,1_272,1_272,1.272 uoluentem pectore curas,vergil.aeneid,5_701,5_701,5.701 illuc pectore curas ,3,R,,phrase for thinking over something (Caesar = Aeneas)
+lucan.bellum_civile,1_272,1_272,1.272 uoluentem pectore curas,vergil.aeneid,7_254,7_254,7.254 volvit sub pectore,3,R,,phrase for thinking over something (Caesar = Latinus)
+lucan.bellum_civile,1_280,1_280,1.280 dum trepidant ,vergil.aeneid,4_121,4_121,4.121 dum trepidant ,3,R,,Curio tells men to act while they hesitate = Juno says that while the hunters hesitate she will get Aeneas and Dido together
+lucan.bellum_civile,1_280,1_280,1.280 dum trepidant ,vergil.aeneid,9_418,9_418,9.418 dum trepidant ,3,R,,"Curio tells the men that while they hesitate they should attack because in the Aeneid while they hesitate, Tagus gets killed"
+lucan.bellum_civile,1_286,1_286,1.286 nunc neque te longi remeantem pompa triumphi / excipit,vergil.aeneid,2_95,2_95,2.95 si patrios umquam remeassem victor ad Argos,4,R,,Sinon's not-going-to-happen triumphal return = Curio's reminder that the men will not get a triumph when they return
+lucan.bellum_civile,1_286,1_286,1.286-7 pompa triumphi / excipit sacras poscunt Capitolia laurus,vergil.aeneid,6_836,6_836,6.836 ille triumphata Capitolia ad alta Corintho,3,R,,Curio reminds the troops that they will not receive a triumph upon returning home = Lucius Mummius received a triumph; Capitolia is plural for metrical reasons
+lucan.bellum_civile,1_286,1_286,1.286 nunc neque te longi remeantem pompa triumphi / excipit,vergil.aeneid,11_793,11_793,11.793 patrias remeabo inglorius urbes,4,R,,Arruns prays that he not return home inglorius = Curio's reminder that the men will return home without receiving a triumph
+lucan.bellum_civile,1_287,1_287,1.287 sacras poscunt Capitolia laurus,vergil.aeneid,3_81,3_81,3.81 vittis et sacra redimitus tempora lauro,3,R,,common collocation
+lucan.bellum_civile,1_287,1_287,1.287 sacras poscunt Capitolia laurus,vergil.aeneid,7_59,7_59,7.59-60 laurus erit . . . / sacra . . .,3,R,,common collocation
+lucan.bellum_civile,1_290,1_290,1.290 decertum genero est,vergil.aeneid,6_831,6_831,6.831 descendens gener ,5,R,,terms of kinship which evoke civil war
+lucan.bellum_civile,1_294,1_294,1.294 carcere clauso ,vergil.aeneid,1_141,1_141,1.141 clauso . . . carcere,3,R,,Caesar as racehorse against closed gate = winds against closed gate
+lucan.bellum_civile,1_297,1_297,1.297 trepidum tumultum,vergil.aeneid,8_4,8_4,8.4-5 simul omne tumultu / coniurat trepido Latium,4,R,,"Caesar assembles his men = Turnus assembles his men (in both cases the men are troubled, but quieted)"
+lucan.bellum_civile,1_301,1_301,1.301 cruor . . . diffusus in aruise ,vergil.aeneid,10_908,10_908,10.908 diffundit in arva cruore,3,R,,Caesar's soldiers' blood poured out on fields = Mezentius' blood poured out on fields
+lucan.bellum_civile,1_303,1_303,1.303 ingenti bellorum . . . tumultu ,vergil.aeneid,11_447,11_447,11.447 ingenti . . . tumultu ,5,R,,tumult of war
+lucan.bellum_civile,1_303,1_303,1.303 ingenti bellorum . . . tumultu ,vergil.aeneid,11_897,11_897,11.897 ingentem . . . tumultum,3,R,,tumult of war
+lucan.bellum_civile,1_308,1_308,1.308 Marte . . . adverso ,vergil.aeneid,12_1,12_1,12.1 adverso Marte ,3,R,,Caesar's hypothetical marte adverso as Turnus sees Latians' real marte adverso
+lucan.bellum_civile,1_311,1_311,1.311 longa . . . pace ,vergil.aeneid,7_46,7_46,7.47 longa . . . pace,5,R,,
+lucan.bellum_civile,1_325,1_325,1.325 suetus ciuilibus armis,vergil.aeneid,5_414,5_414,5.414 arma . . . // . . . suetus,2,R,,
+lucan.bellum_civile,1_328,1_328,1.328 matrum . . . lustra,vergil.aeneid,3_646,3_646,3.646-7 ferarum / lustra,4,R,,wild animals emerging from lairs
+lucan.bellum_civile,1_331,1_331,1.331-2 semel . . . / . . . fauces ,vergil.aeneid,9_63,9_63,9.63 collecta . . . / . . . fauces ,4,R,,Pompey as tiger = Turnus as wolf
+lucan.bellum_civile,1_355,1_355,1.355 diro ferri reuocantur amore ,vergil.aeneid,6_721,6_721,6.721 lucis . . . cupido ,3,R,,fury of Caesar's troops = fury of souls at Lethe
+lucan.bellum_civile,1_358,1_358,1.358 seruati ciuis referentem praemia quercum,vergil.aeneid,6_772,6_772,6.772 civili . . . quercu,3,R,,Laelius' reward for saving a fellow Roman = young men rewarded in underworld lineup
+lucan.bellum_civile,1_359,1_359,1.359-60 Romani maxime rector / nominis ,vergil.aeneid,8_572,8_572,8.572 maxume rector / Iuppiter ,4,R,,Caesar the maximus rector = Jupiter the maximus rector
+lucan.bellum_civile,1_359,1_359,1.360 ueras expromere uoces,vergil.aeneid,2_279,2_279,2.279-80 uirum . . . expromere uoces,4,R,,
+lucan.bellum_civile,1_363,1_363,1.363 dum mouet haec calidus spirantia corpora sanguis,vergil.aeneid,4_336,4_336,4.336 dum memor ipse mei dum spiritus hos regit artus,5,R,,Laelius addressees Caesar as Aeneas addresses Dido
+lucan.bellum_civile,1_363,1_363,1.363 calidus . . . sanguis ,vergil.aeneid,5_395,5_395,5.395 gelidus . . . / sanguis ,4,R,,"Laelius says the troops have warm blood as Virgil's Entellus, an old man, has cold"
+lucan.bellum_civile,1_363,1_363,1.363 calidus . . . sanguis ,vergil.aeneid,9_422,9_422,9.422 calido . . . sanguine ,4,R,,Laelius says the troops have warm blood as Volcens attacks Euryalus in warm blood
+lucan.bellum_civile,1_367,1_367,1.367 duc age,vergil.aeneid,6_343,6_343,6.343 dic age ,2,R,,
+lucan.bellum_civile,1_369,1_369,1.369 post terga relinqueret ,vergil.aeneid,2_57,2_57,2.57 post terga reuinctum ,2,R,,collocation of behind the back
+lucan.bellum_civile,1_376,1_376,1.376-7 pectore . . . gladium . . . / condere ,vergil.aeneid,9_347,9_347,9.347 pectore in aduerso . . . ensem,5,R,,Laelius says he will kill his brother as Euryalus is killed
+lucan.bellum_civile,1_376,1_376,1.376-7 pectore . . . gladium . . . / condere ,vergil.aeneid,12_950,12_950,12.950 ferrum adverso sub pectore condit,5,R,,Laelius says he will kill his brother as Aeneas kills Turnus
+lucan.bellum_civile,1_381,1_381,1.381 Tusci . . . Thybridis ,vergil.aeneid,2_781,2_781,2.781 Lydius Thybris ,3,R,,fusion of Tuscus Tiberis (G. 1.499) and Lydius Thybris (A. 2.781)
+lucan.bellum_civile,1_385,1_385,1.385 quam . . . Urbem,vergil.aeneid,1_573,1_573,1.573 urbem quam ,3,R,,Laelius is willing to even destroy Rome = Dido claims she is building a city for Aeneas
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,4_665,4_665,4.665 it clamor ,4,R,,frequent phrase in negative context
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,5_451,5_451,5.451 it clamor,4,R,,frequent phrase in negative context
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,8_595,8_595,8.595 it clamor,4,R,,frequent phrase in negative context
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,9_664,9_664,9.664 it clamor,4,R,,frequent phrase in negative context
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,11_192,11_192,11.192 it clamor,4,R,,frequent phrase in negative context
+lucan.bellum_civile,1_389,1_389,1.389 Boreas . . . Thracius ,vergil.aeneid,10_350,10_350,10.350 tris quoque Threicios Boreae,3,R,,Thrace is the home of the winds
+lucan.bellum_civile,1_390,1_390,1.390 rupibus incubuit ,vergil.aeneid,1_84,1_84,1.84 incubuere mari ,2,R,,wind on cliffs = wind on sea
+lucan.bellum_civile,1_391,1_391,1.391 fit sonus ,vergil.aeneid,4_443,4_443,4.443 it stridor ,3,R,,noise from forest = noise from oak tree
+lucan.bellum_civile,1_393,1_393,1.393 fataque ferre ,vergil.aeneid,3_130,3_130,3.130 Prosequitur surgens a puppi ventus euntis ,2,R,,imagery from navigation
+lucan.bellum_civile,1_393,1_393,1.393 fataque ferre ,vergil.aeneid,4_430,4_430,4.430 exspectet facilemque fugam ventosque ferentis,2,R,,imagery from navigation
+lucan.bellum_civile,1_399,1_399,1.399-400 gurgite . . . / suo ,vergil.aeneid,9_816,9_816,9.816 suo cum gurgite flauo / accepit ,2,R,,
+lucan.bellum_civile,1_403,1_403,1.403 mitis Atax Latias gaudet non ferre carinas ,vergil.aeneid,8_88,8_88,8.88 mitis ut in morem stagni placidaque paludis ,3,R,,mitis used to describe Aude and Tiber
+lucan.bellum_civile,1_405,1_405,1.405 sub Herculeo sacratus nomine portus ,vergil.aeneid,6_830,6_830,6.830 aggeribus socer Alpinis atque arce Monoeci / descendens ,5,R,,source of Caesar's troops for CW
+lucan.bellum_civile,1_408,1_408,1.408 tuta prohibit statione Monoeci ,vergil.aeneid,2_23,2_23,2.23 nunc tantum sinus et statio male fida carinis,3,R,,outpost of Moneoecus is kept safe = bay of Troy is no longer safe
+lucan.bellum_civile,1_408,1_408,1.408 tuta prohibit statione Monoeci ,vergil.aeneid,5_127,5_127,5.127 immotaque attollitur unda / campus et apricis statio gratissima mergis ,3,R,,outpost of Moneoecus is kept safe = calm sea is shelfter for gulls
+lucan.bellum_civile,1_416,1_416,1.416 fluctusque ad sidera ducat ,vergil.aeneid,1_103,1_103,1.103 fluctusque ad sidera tollit ,3,R,,literal in Lucan = hyperbolic in Virgil
+lucan.bellum_civile,1_417,1_417,1.417-9 quos agitat mundi labor,vergil.aeneid,1_742,1_742,1.742-6 song of Iopas,5,R,,Lucan disowns concerns of didactic poetry
+lucan.bellum_civile,1_418,1_418,1.418-419 causa . . . / . . . late ,vergil.aeneid,3_32,3_32,3.32 causas . . . latentis ,3,R,,common phrase first from Virgil
+lucan.bellum_civile,1_418,1_418,1.418-419 causa . . . / . . . late ,vergil.aeneid,5_5,5_5,5.5 causa latet ,3,R,,common phrase first from Virgil
+lucan.bellum_civile,1_420,1_420,1.420 litore curvo,vergil.aeneid,3_16,3_16,3.16 litore curvo,4,R,,metrical match; allied people located on curved shore
+lucan.bellum_civile,1_420,1_420,1.420 litore curvo,vergil.aeneid,3_223,3_223,3.223 litore curvo,3,R,,metrical match
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco ,vergil.aeneid,1_19,1_19,1.19 progeniem . . . Troiano a sanguine ,3,R,,Avernians claim descent from Troy = Juno hears of a new Trojan race
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco,vergil.aeneid,1_550,1_550,1.550 Troiano . . . a sanguine clarus Acestes ,3,R,,Avernians claim descent from Troy = Acestes is descendent from Troy
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco,vergil.aeneid,4_230,4_230,4.230 sanguine Teucri,3,R,,Avernians claim descent from Troy = Mercury tells Aeneas to found a Teucrian race
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco,vergil.aeneid,5_45,5_45,5.45 genus alto a sanguine diuum ,3,R,,Avernians claim descent from Troy = Aeneas addresses his troops
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco,vergil.aeneid,6_500,6_500,6.500 genus alto a sanguine Tecuri ,3,R,,Avernians claim descent from Troy = Aeneas addresses Deiphobus
+lucan.bellum_civile,1_428,1_428,1.428 sanguine ad Iliaco ,vergil.aeneid,11_394,11_394,11.394 Iliaco . . . / sanguine ,3,R,,Avernians claim descent from Troy = Turnus describes the Tiber full of Ilian blood
+lucan.bellum_civile,1_432,1_432,1.432 stridentes . . . tubae ,vergil.aeneid,12_590,12_590,12.590 magnis . . . acuunt stridoribus iras ,2,R,,
+lucan.bellum_civile,1_433,1_433,1.433-4 raptum . . . / . . . fert ,vergil.aeneid,11_751,11_751,11.751 uolans alte raptum . . . Fulua draconem / fert aquila,3,R,,eagle sntaching snake
+lucan.bellum_civile,1_444,1_444,1.444 placatur sanguine,vergil.aeneid,2_116,2_116,2.116 sanguine placastis ,3,R,,human sacrifice
+lucan.bellum_civile,1_447,1_447,1.447 belloque peremptas ,vergil.aeneid,11_110,11_110,11.110 martis sorte peremptis,3,R,,phrase for killed in battle
+lucan.bellum_civile,1_450,1_450,1.450-1 moremque sinistrum / sacorum ,vergil.aeneid,3_408,3_408,3.408 morem sacrorum,3,R,,Druids have rituals and customs as Helenus tells Aeneas to have
+lucan.bellum_civile,1_450,1_450,1.450-1 moremque sinistrum / sacorum ,vergil.aeneid,11_347,11_347,11.347 moresque sinistros,4,R,,"Druids have ""sinister"" customs as Turnus does"
+lucan.bellum_civile,1_450,1_450,1.450-1 moremque sinistrum / sacorum ,vergil.aeneid,12_836,12_836,12.836 morem . . . sacrorum ,3,R,,Druids have rituals and customs as Aeneas will blend rituals and customs with Latins
+lucan.bellum_civile,1_453,1_453,1.453 nemora alta,vergil.aeneid,12_929,12_929,12.929 nemora alta,2,R,,Virgilian phrase
+lucan.bellum_civile,1_456,1_456,regit idem spiritus artus orbe alio,vergil.aeneid,6_751,6_751,rursus et incipiant in corpora velle reverti,3,R,,
+lucan.bellum_civile,1_454,1_454,vobis auctoribus umbrae non tacitas erebi sedes ditisque profundi pallida regna petunt,vergil.aeneid,8_243,8_243,non secus ac siqua penitus vi terra dehiscens infernas reseretsedes et regna recludat pallida dis invisa superque immane barathrum cernatur trepident inmisso lumine manes,5,R,,
+lucan.bellum_civile,1_455,1_455,1.455-6 Ditisque / . . . pallida regna ,vergil.aeneid,6_269,6_269,6.269 ditis . . . regna ,3,R,,description of Dis
+lucan.bellum_civile,1_456,1_456,1.456 regit idem spiritus artus ,vergil.aeneid,6_726,6_726,6.726 spiritus . . . artus ,4,R,,Druids don't believe in Dis as Romans do
+lucan.bellum_civile,1_457,1_457,1.457 orbe alio ,vergil.aeneid,6_745,6_745,6.745 perfecto temporis orbe ,4,R,,Druids don't believe in Dis as Romans do
+lucan.bellum_civile,1_460,1_460,1.460-1 ruendi / in ferrum mens ,vergil.aeneid,8_648,8_648,8.648 in ferrum . . . ruebant ,4,R,,common phrase; Lucan's Gauls have freedom so they fight = sons of Aeneas fight on shield
+lucan.bellum_civile,1_468,1_468,1.468 uicinaque moenia conplet,vergil.aeneid,9_39,9_39,9.39 moenia complent ,3,R,,Caesar fills walls as he takes cities = Teucrians fill walls to defend cities
+lucan.bellum_civile,1_469,1_469,1.469-71 fama . . . / . . . / . . . nuntia ,vergil.aeneid,9_474,9_474,9.474 nuntia Fama ,3,R,,reports made by Fama
+lucan.bellum_civile,1_471,1_471,1.471 uelox . . . nuntia ,vergil.aeneid,11_139,11_139,11.139 Fama volans tanti praenuntia luctus ,3,R,,description of fama
+lucan.bellum_civile,1_472,1_472,1.472 innumeras soluit falsa in praeconia linguas ,vergil.aeneid,4_189,4_189,4.189 haec tum multiplici populos sermone replebat / gaudens et pariter facta atque infecta canebat,4,R,,description of fama
+lucan.bellum_civile,1_477,1_477,1.477 aquilas conlataque signa ,vergil.aeneid,11_517,11_517,11.517 conlatis . . . signis ,2,R,,technical military term
+lucan.bellum_civile,1_479,1_479,1.479 nec qualem meminere uident ,vergil.aeneid,2_274,2_274,2.300 ei mihi qualis erat quantum mutatus ab illo / Hectore qui redit exuuias indutus Achilli,3,R,,
+lucan.bellum_civile,1_483,1_483,1.483 pone sequi ,vergil.aeneid,10_226,10_226,10.226 pone sequens ,2,R,,
+lucan.bellum_civile,1_491,1_491,Incerti quo quemque fugae tulit impetus urgent praecipitem populum,vergil.aeneid,2_796,2_796,Atque hic ingentem comitum adfluxisse novorum,4,R,,Roman senate flees vs. Aeneas' leadership
+lucan.bellum_civile,1_492,1_492,1.492-3 praecipitem populum serieque haerentia longa / agmina,vergil.aeneid,2_766,2_766,2.766-7 pueri et pauidae longo ordine matres / stant circum ,2,R,,
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem ,vergil.aeneid,4_666,4_666,4.666 fama per urbem ,3,R,,common phrase used in a negative context
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem,vergil.aeneid,8_554,8_554,8.554 volgata per urbem ,3,R,,common phrase used in a negative context
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem,vergil.aeneid,8_665,8_665,8.665 sacra per urbem ,3,R,,common phrase used in a negative context
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem,vergil.aeneid,9_473,9_473,9.473 pennata per urbem ,3,R,,common phrase used in a negative context
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem,vergil.aeneid,12_608,12_608,12.608 fama per urbem ,3,R,,common phrase used in a negative context
+lucan.bellum_civile,1_496,1_496,1.496-7 velut unica rebus / spes foret adflictos patrios excedere muros,vergil.aeneid,2_354,2_354,2.354 una salus victis nullam sperare salutem,4,R,,Lucan's Romans flee with same hope as Aeneas and the Trojans
+lucan.bellum_civile,1_499,1_499,1.499-501 Auster / . . . aequor/ / . . . fluctus,vergil.aeneid,1_82,1_82,1.82-6 venti . . . / / . . . mari . . . // . . . fluctus,3,R,,type scene (shipwreck) that extends further in Aen.
+lucan.bellum_civile,1_499,1_499,1.499 immensum . . . aequor ,vergil.aeneid,6_355,6_355,6.355 immensa . . .aequora ,3,R,,Virgilian phrase
+lucan.bellum_civile,1_501,1_501,1.501 desilit in fluctus deserta puppe magister ,vergil.aeneid,1_114,1_114,1.114-16 ingens a uertice pontus / in puppim ferit: excutitur pronusque magister / uoluitur in caput,3,R,,ship of state metaphor = Aeneas' shipwreck
+lucan.bellum_civile,1_502,1_502,1.502 nondum sparsa conpage carinae ,vergil.aeneid,1_122,1_122,1.122 laxis lacterum compagibus omnes accipiunt inimicum imbrem rimisque fatiscunt ,3,R,,ship of state metaphor = Aeneas' shipwreck
+lucan.bellum_civile,1_503,1_503,1.503 urbe relicta ,vergil.aeneid,9_8,9_8,9.8 urbe . . . relicta ,3,R,,Romans leave city just as Aeneas did
+lucan.bellum_civile,1_504,1_504,nullum iam languidus aevo evaluit revocare parens coniunxve maritum fletibus aut patrii dubiae dum vota salutis conciperent tenuere lares,vergil.aeneid,2_583,2_583,namque etsi nullum memorabile nomen feminea in poena est nec habet victoria laudem extinxisse nefas tamen et sumpsisse merentis laudabor poenas animumque explesse iuvabit ultricis flammae et cineres satiasse meorum talia iactabam et furiata mente ferebar] cum mihi se non ante oculis tam clara videndam obtulit et pura per noctem in luce refulsit alma parens confessa deam qualisque videri caelicolis et quanta solet dextraque prehensum continuit roseoque haec insuper addidit ore,2,R,,
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_635,2_635,2.635 genitor quem tollere in altos / optabam primum montis primumque petebam,5,R,,Romans are unlike Aeneas and his family
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_651,2_651,2.651-3 nos contra effusi lacrimis coniunxque Creusa / Ascaniusque omnisque fomus ne uertere secum / cunta pater fatoque urgenti incumbere uellet,5,R,,Romans are unlike Aeneas and his family
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_657,2_657,2.657-70 mene efferre pedem genitor te posse relicto / sperasti tantumque nefas patrio excidit ore,5,R,,Romans are unlike Aeneas and his family
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_673,2_673,2.673-8 ecce autem complexa pedes in limine coniunx / haerebat paruumque patri tenebat Iulum / si periturus abis et nos rape in omnia tecum; / sin aliquam expertus sumpis spem ponis in armis / hanc primum tutare domum. Cui paruus Iulus / cui pater et coniunx quondam tua dicta relinquor,5,R,,cries of wife in Lucan = cries of Creusa in Virgil
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_707,2_707,"age, care pater, cervici imponere nostrae",5,R,,Romans are unlike Aeneas and his family
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,2_747,2_747,Ascanium Anchisenque patrem Teucrosque Penatis,5,R,,Romans are unlike Aeneas and his family
+lucan.bellum_civile,1_504,1_504,1.504-7 nullum . . . eualuit reuocare parens coniunxue maritum / . . . Aut patrii . . . / . . . Lares,vergil.aeneid,3_11,3_11,3.11 feror exsul in altum / cum sociis natoque peatibus et magnis dis ,5,R,,"people abandon Rome with no concern for family or gods, unlinke Aeneas, who is characterized by this concern"
+lucan.bellum_civile,1_504,1_504,1.504 nullum ,vergil.aeneid,11_160,11_160,11.160 contra ego uiuendo uici mea fata superstes / restarem ut genitor ,1,R,,
+lucan.bellum_civile,1_505,1_505,1.505 eualuit reuocare ,vergil.aeneid,7_757,7_757,7.757 eualuit neque eum iuuere in uulnera cantus ,2,R,,
+lucan.bellum_civile,1_507,1_507,1.507-8 nec limine quisquam haesit ,vergil.aeneid,2_673,2_673,2.673 ecce autem complexa pedes in limine coniunx / haerebat ,5,R,,no one lingers at their threshold (all abandon Rome at outset of war) vs. Creusa and Aeneas who do
+lucan.bellum_civile,1_514,1_514,1.514 urbem liquere ,vergil.aeneid,10_168,10_168,10.168 urbem liquere ,3,R,,Romans abandon city as youth from Cosae abandon their city to help Aeneas
+lucan.bellum_civile,1_515,1_515,1.515 externis . . . In oris ,vergil.aeneid,7_270,7_270,7.270 externis . . . oris ,3,R,,Roman soldier beseiged on foreign shores = men (Trojans) come to Latium from foreign shores
+lucan.bellum_civile,1_518,1_518,1.518 intra tentoria ,vergil.aeneid,1_7,1_7,1.7 altae moenia Romae ,3,R,,tents of civil war vs. high walls of Rome
+lucan.bellum_civile,1_519,1_519,1.519 audito bellorum nomine ,vergil.aeneid,12_697,12_697,12.697 at pater Aeneas audito nomine Turni / deserit et muros et summas deserit arces ,4,R,,"Romans desert upon hearing the word ""war"" = Aeneas charges into battle upon hearing the name ""Turnus"""
+lucan.bellum_civile,1_520,1_520,1.520 nox una tuis non credita muris ,vergil.aeneid,2_360,2_360,2.360-2 nox atra cauca circumuolant umbra. / quis cladem illius noctis quis funera fando / explicet aut possit lacrimis aequare labores? / urbs antiqua ruit multos dominata per annos,5,R,,Romans leave at signs of war unlike the Trojans who make a final stand
+lucan.bellum_civile,1_524,1_524,1.524-5 superi . . . / prodigiis terras inplerunt ,vergil.aeneid,10_101,10_101,10.101-3 deum alta silescit / et tremefacta solo tellus silet arduus aether / tum Zephyri posuere premit placida aequora pontus ,3,R,,tripartite division of the world
+lucan.bellum_civile,1_526,1_526,1.526 obscurae . . . noctes ,vergil.aeneid,4_461,4_461,4.461 nox . . . obscura ,3,R,,dark night holds ill omens for Rome as it does for Dido
+lucan.bellum_civile,1_526,1_526,1.526 ignota . . . sidera,vergil.aeneid,8_681,8_681,8.861 Iulium sidus,1,R,,
+lucan.bellum_civile,1_527,1_527,1.527 ardentemque polum,vergil.aeneid,2_251,2_251,2.251 terramque polumque ,2,R,,similar use of polum as sky
+lucan.bellum_civile,1_530,1_530,1.530 fallaci . . . sereno ,vergil.aeneid,5_850,5_850,5.850 fallacibus / . . . sereni ,3,R,,lightning in a deceptively clear sky as Palinarus says he has been deceived by a clear sky
+lucan.bellum_civile,1_530,1_530,1.530-1 sereno / . . . aere ,vergil.aeneid,9_630,9_630,9.630 caeli . . . serena ,3,R,,lightning without thunder as a bad omen
+lucan.bellum_civile,1_540,1_540,1.540 medio . . . Olympo,vergil.aeneid,10_216,10_216,10.216 medium . . . Olympum ,3,R,,term for middle of the sky
+lucan.bellum_civile,1_541,1_541,1.541 atra caligine,vergil.aeneid,9_36,9_36,9.36 caligine . . . atra ,3,R,,frequent combination
+lucan.bellum_civile,1_541,1_541,1.541 condidit ardentis atra caligine currus ,vergil.aeneid,11_187,11_187,11.187 atris conditur . . . caligine ,3,R,,Titan veils the earth in darkness as the pyres veil the earth in darkness
+lucan.bellum_civile,1_541,1_541,atra caligine,vergil.aeneid,11_876,11_876,caligine turbidus atra,3,R,,Titan veils the earth in darkness as Trojans cause a dark cloud when attacking Rutulians after the death of Camilla
+lucan.bellum_civile,1_542,1_542,1.542 inuoluitque orbem ,vergil.aeneid,3_198,3_198,3.198 inuoluere diem nimbi ,3,R,,darkness veils day/earth
+lucan.bellum_civile,1_548,1_548,1.548-9 saeui / latrauere canes ,vergil.aeneid,5_257,5_257,5.257 saeuitque canum latratus in auras,4,R,,description of Scylla's barking (though in Lucan the bark is now a whine)
+lucan.bellum_civile,1_549,1_549,1.549-50 Vestali raptus ad ara / ignis ,vergil.aeneid,2_296,2_296,2.296-7 Vestamque potentem aeternumque adytus effert penetralibus ignem,5,R,,inversion of the preservation of Vesta's fire in the flight from Troy
+lucan.bellum_civile,1_556,1_556,1.556 urbisque laborem ,vergil.aeneid,2_284,2_284,2.284 post uarios hominumque urbisque labores / defessi aspicimus ,4,R,,pain and distress of city
+lucan.bellum_civile,1_557,1_557,1.557 testatos sudore Lares ,vergil.aeneid,2_171,2_171,2.171-4 nec dubiis ea signa dedit Tritonia monstris. / uix positum castris simulacrum: arsere coruscae / luminibus flammae arrectis salsusque per artus / sudor iit,3,R,,physical reactions of cult images to bad things
+lucan.bellum_civile,1_558,1_558,1.558 dirasque diem foedasse uolucres ,vergil.aeneid,3_262,3_262,2.262 sive deae seu sint dirae obscenaeque volucres,3,R,,
+lucan.bellum_civile,1_558,1_558,1.558 dirasque diem foedasse uolucres ,vergil.aeneid,8_235,8_235,8.235 dirarum . . . uolucrum ,2,R,,birds are commonly dirae
+lucan.bellum_civile,1_559,1_559,1.559-60 posuisse cubilia Roma ,vergil.aeneid,6_274,6_274,6.274 posuere cubilia Curae ,3,R,,wild animals make their lairs in Rome as Grief and Concern do in the underworld
+lucan.bellum_civile,1_565,1_565,1.565 Bellona ,vergil.aeneid,8_700,8_700,8.700-4 saeuit medio in certamine Mauros / caelatus ferro tristesque ex aethere Diare / et scissa gaudens uadit Discordia palla / quam sum sanguineo sequitur Bellona flagello ,4,R,,Lucan borrows appearance of Bellona from Virgil
+lucan.bellum_civile,1_572,1_572,1.572 urbem cingebat ,vergil.aeneid,11_475,11_475,11.475 varia cinxere corona ,2,R,,military term for seige
+lucan.bellum_civile,1_573,1_573,1.573-4 excutiens . . . / stridentisque comas ,vergil.aeneid,12_6,12_6,12.6 gaudetque comantis / excutiens ceruice toros ,3,R,,Fury shaking its hair = lion shaking its mane
+lucan.bellum_civile,1_574,1_574,1.574-7 Agauen / . . . Lycurgi / . . . / . . . Alcides,vergil.aeneid,4_469,4_469,4.469-73 Pentheus / . . . / . . . Agamemnonius . . . Orestes ,3,R,,story of Agave
+lucan.bellum_civile,1_576,1_576,1.576 Eumenis ,vergil.aeneid,4_469,4_469,4.469 Eumenidum ueluti demens uidet agmina Pentheus ,3,R,,Fury hurting Rome is like Agave as Dido is like a Fury
+lucan.bellum_civile,1_576,1_576,1.576 iussu Iunonis iniquae ,vergil.aeneid,8_292,8_292,8.292-4 ut duros mille labores / rege sub Eurystheo fatis Iunonis iniquae / pertulerit ,4,R,,references to Hercules being maddened by servants of Juno
+lucan.bellum_civile,1_581,1_581,1.581 tristia . . . cecinere oracula ,vergil.aeneid,2_114,2_114,2.114 f. suspensi Eurypylum sciatum oracula Phoebi / mittimus isque adytis haec tristia dicta reportat ,5,R,,ghost of Sulla makes sad prophecies as Eurypylus brings back sad oracles from Phoebus
+lucan.bellum_civile,1_582,1_582,1.582 gelidas Anienis . . . Undas,vergil.aeneid,7_683,7_683,7.683 gelidumque Anienem . . . rivis ,3,R,,Anio river is cold
+lucan.bellum_civile,1_584,1_584,1.584-8 haec propter placuit Tuscos de more uetusto / acciri uates. Quorum qui maximus aeuo / Arruns incoluit desertae moenia Lucae / fulminis edoctus motus uenasque calentis / fibrarum et montitus errantus in aere pinnae ,vergil.aeneid,3_359,3_359,3.359-61 Troiugena interpres divum qui numina Phoebi / qui tripoda ac Clarii laurus. / qui sidera sentis / et volucrum linguas et praepetis omina pinnae,3,R,,three-fold expertise of seers
+lucan.bellum_civile,1_584,1_584,1.584-8 haec propter placuit Tuscos de more uetusto / acciri uates. Quorum qui maximus aeuo / Arruns incoluit desertae moenia Lucae / fulminis edoctus motus uenasque calentis / fibrarum et montitus errantus in aere pinnae ,vergil.aeneid,10_175,10_175,10.175-7 tertius ille hominum diuumque interpres Asilas / cui pecudumfibrae caeli cui sidera parent / et linguae uolucrum et pragesagi fulminis ignes ,3,R,,three-fold expertise of seers
+lucan.bellum_civile,1_585,1_585,1.585 maximus aeuo ,vergil.aeneid,11_237,11_237,11.237 maximus aeuo ,3,R,,Arruns is oldest as Latinus (in council)
+lucan.bellum_civile,1_586,1_586,1.586 Aruns,vergil.aeneid,11_759,11_759,11.759 Arruns,3,R,,character of Arruns in both (Etruscan name)
+lucan.bellum_civile,1_587,1_587,1.587-8 uenasque calentis / fibrarum ,vergil.aeneid,10_176,10_176,10.176 fibrae caeli ,3,R,,description of haruspicy
+lucan.bellum_civile,1_589,1_589,1.589-90 monstra . . . quae . . . / protulerat natura ,vergil.aeneid,9_120,9_120,9.120 mirabile monstrum,3,R,,deformed children are ill omens as dophins are good omens
+lucan.bellum_civile,1_591,1_591,1.591 infaustis urere flammis ,vergil.aeneid,2_37,2_37,2.37 praecipitare iubent subiectisque urere flammis ,3,R,,burn deformed children as ill omens as Capys would have had them burn the Trojan Horse
+lucan.bellum_civile,1_591,1_591,1.591 infaustis urere flammis ,vergil.aeneid,5_635,5_635,5.635 infaustas exurite puppis ,3,R,,burn deformed children as ill omens as the women burn the Trojan ships
+lucan.bellum_civile,1_592,1_592,1.592 ciuibus urbem ,vergil.aeneid,5_631,5_631,5.631 ciuibus urbem,2,R,,
+lucan.bellum_civile,1_592,1_592,1.592 ciuibus urbem ,vergil.aeneid,8_571,8_571,8.571 ciuibus urbem ,2,R,,
+lucan.bellum_civile,1_595,1_595,1.595 sacri quibus est permissa potestas ,vergil.aeneid,9_97,9_97,9.97 cui tanta deo permissa potestas ,3,R,,permission granted to priests as Jupiter asks who could save Aeneas
+lucan.bellum_civile,1_596,1_596,1.596 ritu . . . succincta Gabino ,vergil.aeneid,7_612,7_612,7.612 cinctuque Gabino ,2,R,,description of the Gabine toga style
+lucan.bellum_civile,1_598,1_598,1.598 Troianam . . . Mineruam ,vergil.aeneid,2_163,2_163,2.163 Palladis auxiliis semper stetit ,2,R,,palladium of Athena
+lucan.bellum_civile,1_598,1_598,1.598 cui fas uidisse ,vergil.aeneid,6_266,6_266,6.266 sit mihi fas audita loqui ,3,R,,permission for mortals to see/hear/speak of the dive
+lucan.bellum_civile,1_599,1_599,1.599 fata deum ,vergil.aeneid,2_54,2_54,2.54 fata deum ,2,R,,utterances of the gods/destiny
+lucan.bellum_civile,1_599,1_599,1.599 fata deum ,vergil.aeneid,3_375,3_375,3.375 fata deum,2,R,,utterances of the gods/destiny
+lucan.bellum_civile,1_599,1_599,1.599 fata deum ,vergil.aeneid,6_376,6_376,6.376 fata deum ,2,R,,utterances of the gods/destiny
+lucan.bellum_civile,1_599,1_599,1.599 fata deum ,vergil.aeneid,7_239,7_239,7.239 fata deum,2,R,,utterances of the gods/destiny
+lucan.bellum_civile,1_599,1_599,1.599 fata deum,vergil.aeneid,7_584,7_584,7.584 fata deum,2,R,,utterances of the gods/destiny
+lucan.bellum_civile,1_606,1_606,1.606-7 Arruns dispersos fulminis ignes / colligit et . . . condit ,vergil.aeneid,10_177,10_177,10.177 fulminis ignes ,4,R,,description of sacrifices
+lucan.bellum_civile,1_607,1_607,1.607 maesto cum murmure ,vergil.aeneid,1_55,1_55,1.55 magno cum murmure ,3,R,,Arruns hides ashes from thunderbolt in the earth while murmurring = winds hidden in the murmurring mountain
+lucan.bellum_civile,1_607,1_607,1.607 maesto cum murmure ,vergil.aeneid,1_245,1_245,1.245 uasto cum murmure ,3,R,,Arruns hides ashes from the thunderbold in the earth while murmurring = river Timavus coming out of mountain with a great murmur
+lucan.bellum_civile,1_608,1_608,1.608 sacris . . . admouet aris,vergil.aeneid,12_171,12_171,12.171 admouitque pecus flagrantibus aris ,3,R,,admoveo + dat. is technical term for bringing a victim to the altar
+lucan.bellum_civile,1_609,1_609,1.609 fundere Bacchum ,vergil.aeneid,5_77,5_77,5.77 hic duo rite mero libans carchesia Baccho / fundit humit ,2,R,,using Bacchus' name as vine in libation
+lucan.bellum_civile,1_616,1_616,1.616 palluit attonitus sacris feralibus Arruns ,vergil.aeneid,4_462,4_462,4.462 solaque culminibus ferali carmine bubo ,4,R,,Arruns terrified by sacrifice = Dido terrified by screech of an owl
+lucan.bellum_civile,1_622,1_622,1.622-3 pulmonis anheli / fibra latet ,vergil.aeneid,6_48,6_48,6.48 pectus anhelum ,3,R,,description of lung in sacrifice = Sibyl's breath as she gives an oracle
+lucan.bellum_civile,1_632,1_632,1.632 nec enim ,vergil.aeneid,6_28,6_28,6.28 sed enim ,2,R,,
+lucan.bellum_civile,1_632,1_632,1.632 nec enim ,vergil.aeneid,8_84,8_84,8.84 tibi enim ,2,R,,
+lucan.bellum_civile,1_632,1_632,1.632 nec enim ,vergil.aeneid,10_874,10_874,10.874 agnovit enim ,2,R,,
+lucan.bellum_civile,1_634,1_634,1.634 inferni . . . dei ,vergil.aeneid,6_106,6_106,6.106 inferni ianua ,2,R,,
+lucan.bellum_civile,1_635,1_635,1.635 di uisa secundent ,vergil.aeneid,3_36,3_36,3.36 rite secundarent uisus omenque leurent ,5,R,,Arruns asks the gods to be favorable as Polydorus asks Aeneas
+lucan.bellum_civile,1_635,1_635,1.635 di uisa secundent ,vergil.aeneid,7_259,7_259,7.259 di nostra . . . secundent ,4,R,,Arruns asks that the gods make favorable the ill fate he has foreseen as Aeneas asks that the gods make favorable his undertakings
+lucan.bellum_civile,1_637,1_637,1.637-8 flexa . . . / . . . multaque . . . ambage,vergil.aeneid,6_99,6_99,6.99 horrendas canit ambages ,4,R,,Arruns' concealment of signs = Sibyl's concealment of future
+lucan.bellum_civile,1_639,1_639,1.639 at Figulus ,vergil.aeneid,4_1,4_1,4.1 at regina ,2,R,,begins new section of narrative
+lucan.bellum_civile,1_639,1_639,1.639 at Figulus ,vergil.aeneid,4_296,4_296,4.296 at regina ,2,R,,begins new section of narrative
+lucan.bellum_civile,1_639,1_639,1.639 at Figulus ,vergil.aeneid,4_393,4_393,4.393 at pius Aeneas ,2,R,,begins new section of narrative
+lucan.bellum_civile,1_639,1_639,1.639 at Figulus ,vergil.aeneid,4_504,4_504,4.504 at regina ,2,R,,begins new section of narrative
+lucan.bellum_civile,1_647,1_647,1.647 segetes tellus infida negabit ,vergil.aeneid,3_142,3_142,3.142 uictum seges aegra negabat ,3,R,,description of drought
+lucan.bellum_civile,1_660,1_660,1.660 quid tantum Gradiue paras,vergil.aeneid,5_14,5_14,5.14 quidue pater Naptune paras ,3,R,,direct address to a god asking future
+lucan.bellum_civile,1_662,1_662,1.662 motuque celer Cyllenius haeret ,vergil.aeneid,4_252,4_252,4.252 hic primum paribus nitens Cyllenius alis ,2,R,,
+lucan.bellum_civile,1_663,1_663,1.663 meatus ,vergil.aeneid,6_849,6_849,6.849 caelique meatus ,2,R,,
+lucan.bellum_civile,1_666,1_666,1.666 armorum rabies ,vergil.aeneid,8_327,8_327,8.327 belli rabies ,3,R,,frenzy of war
+lucan.bellum_civile,1_673,1_673,1.673-4 terruerant . . . pauidam praesagia plebem / sed maiora premunt ,vergil.aeneid,2_199,2_199,2.199 hic aliud maius miseris multoque tremendum / obicitur magis atque improuida pectora turbat ,5,R,,omens terrify the people as Aeneas describes the death of Laocoon as a terrrible portent
+lucan.bellum_civile,1_673,1_673,1.673 pauidam . . . plebem,vergil.aeneid,2_685,2_685,2.685 pauidi trepidare ,3,R,,omens terrify the people as Iulus' hair on fire scares them
+lucan.bellum_civile,1_673,1_673,1.673 pauidam . . . plebem,vergil.aeneid,8_349,8_349,8.349 iam tum religio pavidos terrebat agrestis / dira loci,3,R,,omens terrify the people
+lucan.bellum_civile,1_674,1_674,1.674-6 qualis . . . Edonis . . . rapitur matrona per urbem ,vergil.aeneid,4_300,4_300,4.300 f. totamque incensa per urbem / bacchatur qualis commostis excita sacris / Thyias ubi audito simulant trieterica Baccho / orgia nocturnusque uocat clamore Cithaeron,5,R,,matrona and Dido as Bacchants
+lucan.bellum_civile,1_676,1_676,1.676 rapitur matrona per urbem ,vergil.aeneid,4_68,4_68,4.68 uritur infelix Dido totaque uagatur / urbe furens ,5,R,,matrona and Dido as Bacchants
+lucan.bellum_civile,1_676,1_676,1.676 rapitur matrona per urbem ,vergil.aeneid,4_666,4_666,4.666 concussam bacchatur Fama per urbem ,5,R,,matrona and Dido as Bacchants
+lucan.bellum_civile,1_676,1_676,1.676 rapitur matrona per urbem ,vergil.aeneid,7_377,7_377,7.377 immensan sine more furit lymphata per urbem ,5,R,,matrona and Amata as Bacchants
+lucan.bellum_civile,1_676,1_676,1.676 rapitur matrona per urbem ,vergil.aeneid,10_41,10_41,10.41 bacchata per urbes ,5,R,,matrona and Allecto as Bacchants
+lucan.bellum_civile,1_677,1_677,1.677 uocibus his ,vergil.aeneid,1_64,1_64,1.64 his uocibus ,3,R,,matrona addresses city = Juno addresses Aeolus
+lucan.bellum_civile,1_677,1_677,1.677 prodens urguentem pectora Phoebum,vergil.aeneid,6_48,6_48,6.48 pectus anhelum / et rabie fera corda tument ,5,R,,matrona speaking = Sibyl speaking
+lucan.bellum_civile,1_677,1_677,1.677 uocibus his ,vergil.aeneid,9_83,9_83,9.83 uocibus his ,3,R,,matrona addresses city = Rhea addresses Jove
+lucan.bellum_civile,1_678,1_678,1.678 super aethera ,vergil.aeneid,1_379,1_379,1.379 super aethera ,2,R,,
+lucan.bellum_civile,1_678,1_678,1.678 quo feror ,vergil.aeneid,4_110,4_110,4.110 incerta feror ,4,R,,matrona asks where she is borne as Venus says that if she is carried uncertain . . .
+lucan.bellum_civile,1_678,1_678,1.678 quo feror . . . quis furor,vergil.aeneid,4_595,4_595,4.595 quid loquor? Aut ubi sum? Quae mentem insania mutat?,3,R,,matrona asks where she is borne as Dido asks multiple questions
+lucan.bellum_civile,1_678,1_678,1.678 quo feror ,vergil.aeneid,10_670,10_670,10.670 quo feror ,5,R,,"matrona asks where she is borne just as Turnus, saved by Jupiter, does"
+lucan.bellum_civile,1_680,1_680,1.680 Haemi sub rupe ,vergil.aeneid,8_295,8_295,8.295 nemeae sub rupe ,2,R,,
+lucan.bellum_civile,1_681,1_681,1.681 tela manusque ,vergil.aeneid,6_57,6_57,6.57 tela manusque ,4,R,,both addresses to Pheobus about war
+lucan.bellum_civile,1_685,1_685,1.685-6 hunc ego fluminea deformis truncus harena / qui iacet agnosco,vergil.aeneid,2_554,2_554,2.554-8 haec finis Priami factorum hic exitus illum / sorte tulit Troiam incensam et prolapsa uidentem / Pergama tot quondam populis terrisque superbum / regnatorem Asiae iacet ingens litore truncus / auulsumque umeris caput et sine nomine corpus,5,R,,Pompey = Priam
+lucan.bellum_civile,1_686,1_686,1.686-7 Syritim / . . . Feror Libyen ,vergil.aeneid,1_2,1_2,1.2 Italiam fato profugus Laviniaque venit ,3,R,,matrona sweept across Mediterranean as Aeneas is
+lucan.bellum_civile,1_686,1_686,1.686 dubiam . . . Syrtim ,vergil.aeneid,4_41,4_41,4.41 inhospita Syrtis ,3,R,,description of Syrtis
+lucan.bellum_civile,1_689,1_689,1.689 nubiferae colles atque aeriam Pyrenen ,vergil.aeneid,3_680,3_680,3.680 aeriae quercus aut coniferae cyparissi ,3,R,,matrona comes to mountains described using similar terms to the simile describing the cyclopes gathered
+lucan.bellum_civile,1_691,1_691,1.691 inpiaque . . . bella ,vergil.aeneid,12_31,12_31,12.31 promissam eripui genero arma impia sumpsi ,3,R,,matrona comes home to civil war = Latinus begins a civil war
+lucan.bellum_civile,1_695,1_695,1.695 lasso iacuit deserta furore ,vergil.aeneid,3_716,3_716,3.716-18 sic pater Aeneas intentis omnibus unus / fata renarrabat diuum cursusque docebat/ conticuit tandem factoque hic fine quieuit,4,R,,matrona's account = Aeneas' account of his voyages
+lucan.bellum_civile,1_695,1_695,1.695 lasso iacuit deserta furore ,vergil.aeneid,6_102,6_102,6.102 cessit furor et rabida ora quierunt ,5,R,,matrona's furor = sibyl's furor
+lucan.bellum_civile,1_4,1_4,4-5 rupto foedere regni / certatum totis concussi viribus orbis,vergil.aeneid,11_321,11_321,11.321-2 foederis aequas / dicamus leges sociosque in regna vocamus,3,TB,,polemical allusion; Latinus' pact ends civil war = broken pact of Caesar and Pompey begins a civil war
+lucan.bellum_civile,1_8,1_8,8 licentia ferri,vergil.aeneid,7_461,7_461,7.461 amor ferri,4,TB,,Roman citizen's freedom of the sword = Turnus' love of the sword when goaded by Allecto
+lucan.bellum_civile,1_12,1_12,12 bella . . . nullos habitura triumphos,vergil.aeneid,8_714,8_714,8.714 triplici . . . triumpho,4,TB,,civil war leads to no triumphs = triple triumph after Actium
+lucan.bellum_civile,1_27,1_27,27 rarus . . . habitator,vergil.aeneid,8_98,8_98,8.98-9 rara domorum / tecta,3,TB,,
+lucan.bellum_civile,1_196,1_196,196 Phrygii . . . penates,vergil.aeneid,2_293,2_293,2.293 Troia Penates,3,TB,,Caesar addresses the Penates which Hector gave to Aeneas
+lucan.bellum_civile,1_227,1_227,227 utendum est iudice bello,vergil.aeneid,12_79,12_79,12.79 nostro dirimamus sanguine bellum,4,TB,,Caesar wants blood via general conflict to be the judge wherease Turnus wants blood from a duel between himself and Aeneas to be the judge
+lucan.bellum_civile,1_472,1_472,472 innumeras . . . linguas,vergil.aeneid,4_183,4_183,4.183 tot linguae,4,TB,,description of fama
+lucan.bellum_civile,1_486,1_486,486 finxere,vergil.aeneid,4_188,4_188,4.188 ficti,3,TB,,fabricated rumors
+lucan.bellum_civile,1_493,1_493,493-8 agmina . . . faces . . . ruit,vergil.aeneid,11_142,11_142,11.142-3 ruere et . . . / funereas rapuere faces,5,TB,,effects of fama
+lucan.bellum_civile,1_5,1_5,5 certatum . . . orbis,vergil.aeneid,7_222,7_222,7.222-4 concurrerit orbis,3,TB; R,,clash of Europe and Asia (Greek and Troy) = civil war?
+lucan.bellum_civile,1_4,1_4,4-5 rupto foedere regni / certatum totis concussi viribus orbis,vergil.aeneid,11_313,11_313,11.313 toto certatum est corpore regni,5,TB;R,,"Latinus ""we've fought with all the body of the kingdom""= with the the pact of the kingdom broken, all the forces fight"
+lucan.bellum_civile,1_184,1_184,184 bellumque futurum,vergil.aeneid,9_642,9_642,9.642-3 bella / . . . uentura,3,TB;R,,Caesar's thoughts on wars to come = Apollo's prophecy to Ascanius
+lucan.bellum_civile,1_191,1_191,191 iure,vergil.aeneid,9_642,9_642,9.642 iure,3,TB;R,,Rome ask if Caesar has come rightly as a citizen = Apollo tells Ascanius that he will fight wars rightly
+lucan.bellum_civile,1_200,1_200,200 faue coeptis,vergil.aeneid,9_625,9_625,9.625 Juppiter omnipotens audacibus adnue coeptis,3,TB;R,,Caesar asks for favor as Ascanius does
+lucan.bellum_civile,1_224,1_224,1.224 Hesperiae . . . aruis,vergil.aeneid,3_171,3_171,3.171 Dictea negat tibi Iuppiter arva,5,TB;R,,"Caesar enters Italy illegaly whereas the Penates tell Aeneas it isn't Crete, but Italy for him"
+lucan.bellum_civile,1_225,1_225,225-6 pacem . . . / . . . foedera,vergil.aeneid,12_202,12_202,12.202 pacem . . . foedera,4,TB;R,,Caesar leaves peace behind = peace between Aeneas and Latinus
+lucan.bellum_civile,1_226,1_226,226 te Fortuna sequor,vergil.aeneid,10_49,10_49,10.49 quacumque uiam dederit Fortuna sequatur,3,TB;R,,Caesar's apostrophe to Fortune recalls Venus' proposal that Aeneas be forgotten
+lucan.bellum_civile,1_226,1_226,226 te Fortuna sequor,vergil.aeneid,12_435,12_435,12.435-6 disce . . . / fortunam ex aliis,5,TB;R,,Caesar's apostrophe to Fortune contradicts Aeneas' advice to Ascanius
+lucan.bellum_civile,1_468,1_468,468 moenia conplet,vergil.aeneid,11_140,11_140,11.140 moenia replet,2,TB;R,,
+lucan.bellum_civile,1_469,1_469,469 fama + context,vergil.aeneid,4_173,4_173,4.173 fama + context,4,TB;R,,description of fama
+lucan.bellum_civile,1_495,1_495,495-6 turba per urbem / praecipiti lymphata gradu,vergil.aeneid,4_300,4_300,4.300-1 totamque incensa per urbem / bacchatur,4,TB;R,,crowd in panic = Dido in rage
+lucan.bellum_civile,1_8,1_8,8 quis furor,vergil.aeneid,2_42,2_42,2.42 quae tanta insania,5,TB;V;R,,"madness of citizens going to civil war = madness of ""citizens,"" women burning ships"
+lucan.bellum_civile,1_8,1_8,1.8 quis furor,vergil.aeneid,5_670,5_670,5.670 quis furor iste nouus,5,TB;V;R,,"madness of citizens going to civil war = madness of ""citizens,"" women burning ships"
+lucan.bellum_civile,1_22,1_22,22 totum sub Latias leges cum miseris orbem,vergil.aeneid,4_231,4_231,4.231 totum sub leges mitteret orbem,5,TB;V;R,,Rome should fight itself only after it has dominated others = Jupiter telling Aeneas through Mercury that he is not meant to stay at Carthage but found a Roman empire
+lucan.bellum_civile,1_28,1_28,28 horrida . . . dumis,vergil.aeneid,8_348,8_348,8.348 siluestribus horrida dumis,5,TB;V;R,,Rome abandoned after losses of civil war = Rome uncultivated before founding of city
+lucan.bellum_civile,1_33,1_33,33-4 fata Neroni / inuenere uiam,vergil.aeneid,3_395,3_395,3.395 fata uiam inuenient,5,TB;V;R,,Fates finding way for Nero = Helenus saying fates will find way for Aeneas
+lucan.bellum_civile,1_38,1_38,38 mercede,vergil.aeneid,7_317,7_317,7.317 mercede,5,TB;V;R,,"price of Nero as ruler = price required by Juno for the marriage of Aeneas and Laviania (according to Horsfall, ""itself an allusion to the civil war narrated by Lucan"")"
+lucan.bellum_civile,1_60,1_60,60 positis armis (on Nero),vergil.aeneid,1_291,1_291,1.291 positis mitescent saecula bellis on Augustus,5,TB;V;R,,polemical allusion; Nero = Augustus
+lucan.bellum_civile,1_61,1_61,61-2 pax . . . / compescat limina Iani,vergil.aeneid,1_294,1_294,1.294 claudentur Belli portae,4,TB;V;R,,"Lucan reverses Vergil's image of the gates of war being closed, a passage in which Vergil alludes to Ennius"
+lucan.bellum_civile,1_186,1_186,186-7 uisa . . . / clara per obscuram uultu maestissima noctem,vergil.aeneid,2_270,2_270,2.270 ante oculos maestissimus Hector / uisus adesse,4,TB;V;R,,sad imago of Rome = sad ghost of Hector
+lucan.bellum_civile,1_187,1_187,187 clara per obscuram uultu maestissima noctem ,vergil.aeneid,2_589,2_589,2.589-90 clara.../...pura per noctem in luce,3,TB;V;R,,common phrase for the luminosity of a supernatural figure
+lucan.bellum_civile,1_195,1_195,195 magnae moenia,vergil.aeneid,2_294,2_294,2.294-5 moenia . . . / magna,4,TB;V;R,,Rome's walls common in poetry
+lucan.bellum_civile,1_195,1_195,195 magnae moenia,vergil.aeneid,3_159,3_159,3.159-60 moenia . . . / magna,4,TB;V;R,,Rome's walls common in poetry
+lucan.bellum_civile,1_205,1_205,205-12 leo ///...erexitque iubam /...infremuit lancea,vergil.aeneid,12_4,12_4,12.4-9 leo comantis / excutiens ceruice toros / telum et fremit,5,TB;V;R,,type scene; Caesar as angry lion = Turnus as angry lion
+lucan.bellum_civile,1_469,1_469,1.469-71 fama . . . / . . . /. . . velox . . . nuntia belli,vergil.aeneid,4_188,4_188,4.188 ficti . . . nuntia veri,3,TB;V;R,,exaggerated rumors of Caesar's strength = stories of Dido and Aeneas spread by Fama
+lucan.bellum_civile,1_484,1_484,1.484-5 quisque pauendo / dat uires famae ,vergil.aeneid,4_175,4_175,4.175 uirisque adquirit eundo,3,TB;V;R,,false rumors both grow as they spread
+lucan.bellum_civile,1_495,1_495,1.495 turba per urbem / praecipiti lymphata gradu,vergil.aeneid,7_377,7_377,7.377 furit lymphata per urbem ,3,TB;V;R,,crowds fleeing Rome at Caesar's advent = Amata and Latin matrons in bacchic fury through city
+lucan.bellum_civile,1_2,1_2,2 canimus,vergil.aeneid,1_1,1_1,1.1 cano,5,V,,poet sings story
+lucan.bellum_civile,1_27,1_27,27 urbibus errat,vergil.aeneid,1_578,1_578,1.578 urbibus errat,4,V,,
+lucan.bellum_civile,1_67,1_67,67 fert animus causas tantarum expromere rerum,vergil.aeneid,4_232,4_232,4.232 tantarum gloria rerum,3,V,,origins of war = Jupiter saying glory of empire not yet motivating Aeneas to leave Carthage
+lucan.bellum_civile,1_67,1_67,67 fert animus causas tantarum expromere rerum,vergil.aeneid,4_272,4_272,4.272 tantarum gloria rerum,3,V,,origins of war = Merc. reporting speech of Jupiter saying glory of empire not yet motivating Aeneas to leave Carthage
+lucan.bellum_civile,1_102,1_102,102-3 fretum . . . mare,vergil.aeneid,1_246,1_246,1.246 mare . . . pelago,3,V,,sea burying land (Corinth = Padua)
+lucan.bellum_civile,1_191,1_191,191 uiri,vergil.aeneid,2_668,2_668,2.668 uiri,5,V,,address to soldiery; one word in context
+lucan.bellum_civile,1_224,1_224,224 constitit (Caesar),vergil.aeneid,8_381,8_381,8.381 Rutulorum constitit oris,3,V,,Caesar sets foot across the Rubicon = Aeneas sets foot on Rutulian land
+lucan.bellum_civile,1_230,1_230,230 Parthi post terga sagitta,vergil.aeneid,12_856,12_856,12.856 sagitta / Parthus,4,V,,Caesar or Juturna moving as fast as missile weapon
+lucan.bellum_civile,1_232,1_232,232 fugiebant astra,vergil.aeneid,3_521,3_521,3.521 stellis . . . fugatis,3,V,,transition from night to day
+lucan.bellum_civile,1_232,1_232,232 fugiebant astra,vergil.aeneid,10_257,10_257,10.257 dies noctemque fugarat,3,V,,transition from night to day
+lucan.bellum_civile,1_238,1_238,238-43 classica ///...crate // enses,vergil.aeneid,7_633,7_633,7.633-40 cratis ///...ensis/classica //...ense ,4,V,,type scene; prep for war in both
+lucan.bellum_civile,1_246,1_246,246 gelidus . . . artus,vergil.aeneid,3_259,3_259,3.259 gelidus . . . sanguis,3,V,,people of Arminum fear Caesar as Trojans fear Celaeno's prophecy
+lucan.bellum_civile,1_260,1_260,260 murmure pontus,vergil.aeneid,1_124,1_124,1.124 murmure pontum,3,V,,silence of frightened Roman citizens like calm sea = Neptune seeing seas in turmoil
+lucan.bellum_civile,1_269,1_269,269 uenali,vergil.aeneid,6_621,6_621,6.621-2 uendidit . . . pretio,4,V,,willingness to sell out country (Curio = men in underwold)
+lucan.bellum_civile,1_294,1_294,294-5 carcere clauso / immineat foribus pronusque repagula laxet,vergil.aeneid,11_492,11_492,11.492-7 abruptis fugit praesepia uinclis,5,V,,similes of Caesar as horse straining against starting gate (going to war) = Turnus as horse breaking free and running as he girds for war
+lucan.bellum_civile,1_334,1_334,334 improbe,vergil.aeneid,2_356,2_356,2.356 improba (one word no strong relation),2,V,,
+lucan.bellum_civile,1_354,1_354,354-5 animosque tumentes frangunt,vergil.aeneid,1_202,1_202,1.202 reuocate animos,5,V,,reversal: Aeneas tells men to take heart = Caesar's troops are afraid until Laelius' speaks
+lucan.bellum_civile,1_405,1_405,405-8 quaque with ref. to sea,vergil.aeneid,7_801,7_801,7.801 qua with ref. to sea,2,V,,
+lucan.bellum_civile,1_424,1_424,423 leues . . . in armis,vergil.aeneid,5_37,5_37,5.37 horridus in iaculis ,3,V,,
+lucan.bellum_civile,1_430,1_430,430 te apostrophe in catalogue,vergil.aeneid,7_241,7_241,7.241 apostrophe in catalogue,1,V,,DNE
+lucan.bellum_civile,1_430,1_430,430 te apostrophe in catalogue,vergil.aeneid,10_139,10_139,10.139 apostrophe in catalogue,3,V,,Sarmatians = Ismarus
+lucan.bellum_civile,1_430,1_430,430 te apostrophe in catalogue,vergil.aeneid,10_185,10_185,10.185 apostrophe in catalogue,3,V,,Sarmatians = Cynarus
+lucan.bellum_civile,1_430,1_430,430 te apostrophe in catalogue,vergil.aeneid,12_588,12_588,12.588 apostrophe in catalogue,1,V,,DNE
+lucan.bellum_civile,1_456,1_456,456 idem spiritus artus,vergil.aeneid,4_336,4_336,4.336 spiritus hos regit artus,3,V,,belief of Druids that spirit goes elsewhere after death = Aeneas will remember Dido as long as he has spiritus
+lucan.bellum_civile,1_573,1_573,573 flagranti uertice pinum,vergil.aeneid,7_397,7_397,7.397 flagrantem feruida pinum,5,V,,Fury of war brandishing torch = Amata spurring on war with torch
+lucan.bellum_civile,1_669,1_669,669 quid prodest poscere finem?,vergil.aeneid,1_241,1_241,1.241 quem das finem . . . laborem,4,V,,No point in asking purposes of gods = Venus complaining to Jupiter about labors of Aeneas
+lucan.bellum_civile,1_683,1_683,683 primos me ducis in ortus ,vergil.aeneid,4_118,4_118,4.118 primos crastinus ortus,2,V,,
+lucan.bellum_civile,1_687,1_687,687 quo tristis Enyo,vergil.aeneid,2_337,2_337,2.337 quo tristis Erinys,3,V,,matron goes where Fury takes her = Aeneas goes where battle takes him
+lucan.bellum_civile,1_7,1_7,7 pares . . . pila,vergil.aeneid,6_826,6_826,6.826 paribus . . . armis,5,V;R,,Dead Anchises foretells the civil war between Caesar and Pompey
+lucan.bellum_civile,1_11,1_11,11 umbraque erraret Crassus inulta,vergil.aeneid,6_328,6_328,6.328-30 unburied souls fly about on shore of Hades for 100 years,4,V;R,,souls wandering
+lucan.bellum_civile,1_21,1_21,1.21 si tantus amor belli tibi Roma nefandi,vergil.aeneid,2_10,2_10,2.10 tantus amor casus cognoscere nostros,3,V;R,,Rome's love of war = Dido's love of hearing story of fall of Troy
+lucan.bellum_civile,1_21,1_21,1.21 si tantus amor belli tibi Roma nefandi,vergil.aeneid,6_133,6_133,6.133 si tantus amor menti,3,V;R,,destruction of Rome via civil war = sybil saying she will lead Aeneas into underworld
+lucan.bellum_civile,1_29,1_29,29 desuntque manus poscentibus aruis,vergil.aeneid,11_379,11_379,11.379 bella manus poscunt,5,V;R,,fields abandoned in civil war = Turnus to Drances: you don't fight when war demands it
+lucan.bellum_civile,1_62,1_62,62 limina Iani,vergil.aeneid,7_610,7_610,7.607-13 limine Ianus,5,V;R,,
+lucan.bellum_civile,1_64,1_64,64 secreta mouentem,vergil.aeneid,1_262,1_262,1.262 fatorum arcana movebo,3,V;R,,"no need to learn fates as long as they brought Nero = poet will reveal story; synonym, different case endings"
+lucan.bellum_civile,1_67,1_67,67 fert animus causas tantarum expromere rerum,vergil.aeneid,1_8,1_8,1.8 Musa mihi causas memora,5,V;R,,similar theme: opening of epic tale
+lucan.bellum_civile,1_68,1_68,68 immensum aperitur opus,vergil.aeneid,7_45,7_45,7.45 maius opus moueo,5,V;R,,poet on beginning great tale
+lucan.bellum_civile,1_75,1_75,75-6 ignea astra,vergil.aeneid,4_352,4_352,4.352 astra ignea,3,V;R,,Rome collapsing of greatness like world in ekpyrosis = Aeneas seeing Anchises calling him at night in dreams
+lucan.bellum_civile,1_81,1_81,81 laetis . . . rebus,vergil.aeneid,2_783,2_783,2.783 res laetae,5,V;R,,Rome falls because gods place limit on prosperity = Creusa saying good things await Aeneas in Italy
+lucan.bellum_civile,1_84,1_84,84 causa malorum,vergil.aeneid,11_361,11_361,11.361 causa malorum,5,V;R,,Rome as cause of strife among three leaders = Drances calls Turnus the cause of evils
+lucan.bellum_civile,1_97,1_97,97 exiguum dominos commisit asylum,vergil.aeneid,8_342,8_342,8.342 lucum . . . quem Romulus acer asylum / rettulit,4,V;R,,"""corrects the dimesnsions of Romulus' asylum as it exposes the fratricidal aspect of the myth that Vergil supressed"""
+lucan.bellum_civile,1_114,1_114,114 fata dedissent,vergil.aeneid,11_112,11_112,11.112 sedemque dedissent,3,V;R,,standard phrasing but civil war context (Aeneas on fate that brought him to Italy = fate that took Julia)
+lucan.bellum_civile,1_132,1_132,132 popularibus auris,vergil.aeneid,6_816,6_816,6.816 popularibus auris,5,V;R,,Pompey's desire for popular approval = Ancus' desire for popular approval
+lucan.bellum_civile,1_135,1_135,135 nominis umbra,vergil.aeneid,11_223,11_223,11.223 magnum nomen,5,V;R,,Pomepy's great name = Turnus held up by the queen's great name
+lucan.bellum_civile,1_136,1_136,1.136-43 quercus . . . nec iam ualidis radicibus . . . frondes . . . robore,vergil.aeneid,4_441,4_441,4.441-6 ualidam cum robore quercum . . . frondes . . . radice,5,V;R,,Pompey as oak = Aeneas as oak
+lucan.bellum_civile,1_193,1_193,193 riguere comae,vergil.aeneid,2_774,2_774,2.774 steterunt comae,5,V;R,,standard response to supernatural visitation
+lucan.bellum_civile,1_193,1_193,193 riguere comae,vergil.aeneid,3_48,3_48,3.48 steterunt comae,5,V;R,,standard response to supernatural visitation
+lucan.bellum_civile,1_209,1_209,209 uasto . . . hiatu,vergil.aeneid,6_237,6_237,6.237 uastoque . . . hiatu,3,V;R,,lion's roar = Sybil's cave
+lucan.bellum_civile,1_228,1_228,228 rapit agmina,vergil.aeneid,12_450,12_450,12.450 rapit agmen,3,V;R,,Caesar going over Rubicon = Aeneas charging the field to find Turnus
+lucan.bellum_civile,1_246,1_246,246 occupat artus,vergil.aeneid,7_446,7_446,7.446 occupat artus,3,V;R,,people of Arminum fear Ceasar as Turnus fears Allecto; Virgilian line ending
+lucan.bellum_civile,1_261,1_261,261 gelidas . . . umbras,vergil.aeneid,11_210,11_210,11.210 gelidam . . . umbram,3,V;R,,chill of dawn dispelled when Caesar starts back at invasion = dispersing of chill at dawn after funerals and before Latin council convenes
+lucan.bellum_civile,1_299,1_299,1.299 bellorum o socii qui mille pericula Martis,vergil.aeneid,1_198,1_198,1.198-9 O socii (neque enim ignari sumus ante malorum),4,V;R,,similar situation: leader inciting soldiers to take heart
+lucan.bellum_civile,1_327,1_327,327 tigres . . . / . . . nemore Hyrcano,vergil.aeneid,4_367,4_367,4.367 Hyrcanaeque . . . tigres,3,V;R,,Caesar compares Pompey to bloodthirsty tiger = Dido alleges that Aeneas is so inhuman that he must have been raised by tigers
+lucan.bellum_civile,1_333,1_333,"333 tamen used without preceding ""although""",vergil.aeneid,3_341,3_341,"3.341 tamen used without preceding ""although""",2,V;R,,
+lucan.bellum_civile,1_345,1_345,1.345 quae moenia fessis ,vergil.aeneid,3_85,3_85,3.85 da moenia fessis ,5,V;R,,Caesar asking what home will be given to his veterans if he and they are deprived of their rights = Aeneas asking Apollo on Delos what home is to be given to the Trojans
+lucan.bellum_civile,1_354,1_354,1.354 caede feras mentes animosque tumentes,vergil.aeneid,6_49,6_49,6.49 rabie fera corda tument,3,V;R,,crowd before Laelius' speech = Sibyl before prophecy
+lucan.bellum_civile,1_366,1_366,1.366 usque adeo miserum est ciuili uincere bello,vergil.aeneid,12_646,12_646,12.646 usque adeone mori miserum est ,5,V;R,,"Turnus'rhetorical question = Laelius' rhetorical question, both encouragements to fight"
+lucan.bellum_civile,1_367,1_367,367 inhospita Syrtis,vergil.aeneid,4_41,4_41,4.41 inhospita Syrtis,4,V;R,,description of Syrtis see 1.686
+lucan.bellum_civile,1_388,1_388,1.388 it . . . clamor ,vergil.aeneid,12_409,12_409,12.409 it clamor,4,V;R,,frequent phrase in negative context
+lucan.bellum_civile,1_467,1_467,1.467 audendi maiora ,vergil.aeneid,10_811,10_811,10.811 maioraque . . . Audes,3,V;R,,Caesar confident in his men dares further battles = Aeneas asking Lausus why he is daring so much
+lucan.bellum_civile,1_467,1_467,467 audendi maiora,vergil.aeneid,12_814,12_814,12.814 maiora audere probaui,3,V;R,,Caesar confident in his men dares further battles = Juno admitting she urged Juturna to press Turnus to do more in the Latin cause
+lucan.bellum_civile,1_493,1_493,493 credas,vergil.aeneid,8_691,8_691,8.691 credas,2,V;R,,credas as common epic way of introducing simile
+lucan.bellum_civile,1_493,1_493,493 credas,vergil.aeneid,11_528,11_528,11.528 uelis ,2,V;R,,credas/uelis as common epic way of introducing simile
+lucan.bellum_civile,1_524,1_524,524 manifesta fides,vergil.aeneid,2_309,2_309,2.309 manifesta fides,4,V;R,,proof of coming calamity = proof of sack of Troy by observation of Aeneas
+lucan.bellum_civile,1_524,1_524,524 manifesta fides,vergil.aeneid,3_375,3_375,3.375 manifesta fides,4,V;R,,proof of coming calamity = proof of Aeneas' divine mission
+lucan.bellum_civile,1_584,1_584,584 de more uetusto,vergil.aeneid,11_142,11_142,11.142 de more uetusto,3,V;R,,Romans follow custom in consulting seers as Evander celebrates victory as is accustomed
+lucan.bellum_civile,1_604,1_604,604 tollens apicem generoso uertice,vergil.aeneid,8_664,8_664,8.664 lanigeros apices,3,V;R,,similar descriptions of Flamines with wool on caps
+lucan.bellum_civile,1_632,1_632,632-3 litaui . . . sacrum,vergil.aeneid,4_50,4_50,4.50 sacrisque litatis,3,V;R,,seer Arruns complains to Jupiter = Anna tells Dido to sacrifice to find out about keeping Aeneas
